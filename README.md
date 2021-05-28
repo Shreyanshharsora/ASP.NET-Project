@@ -1,5 +1,5 @@
-# ASP.NET-Project
- 3rd Sem ASP.Net C# Final E-Commerce Project 
+# ASP.NET
+ASP.Net C# E-Commerce Project 
 
 Poject : E-commerce website
 Database: SQLServer 2008 or above
